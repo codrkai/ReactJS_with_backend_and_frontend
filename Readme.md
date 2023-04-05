@@ -1,7 +1,12 @@
 ## React JS Frontend with Node JS Backend using MongoDB
 
-## cd backend
-## npm start
+## View The Full React JS Tutorial Series Here:
+## https://www.youtube.com/playlist?list=PL7lXhMmy4JB5X38OT1JzXLmgP2hUM-v5f
 
-## cd frontend
-## npm start
+```javascript
+cd backend
+npm start
+
+cd frontend
+npm start
+```
