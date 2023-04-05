@@ -6,7 +6,7 @@
 
 Make sure to set up your MongoDB with the table: react_db
 
-Make sure to update the .env file with your MongoDB DB_URI
+Make sure to update the /backend/.env file with your MongoDB DB_URI
 
 ```javascript
 cd backend
